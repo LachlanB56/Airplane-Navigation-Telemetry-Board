@@ -4,12 +4,24 @@ A compact avionics board built around a bare **STM32F411RET6** chip microcontrol
 
 ## 3D layout
 <img width="386" height="437" alt="Screenshot 2026-06-24 180325" src="https://github.com/user-attachments/assets/c9760df5-4d9a-4ea4-ba8b-05ea4e0a1870" />
+
+---
+
 ## 2D layout
 <img width="369" height="419" alt="Screenshot 2026-06-24 180250" src="https://github.com/user-attachments/assets/a1b7ff09-d18a-4f01-96fe-493a35522b96" />
+
+---
+
 ## PCB Schematic
 <img width="717" height="409" alt="Screenshot 2026-06-24 180141" src="https://github.com/user-attachments/assets/9f0ee447-fd40-459f-9dc0-ff70aa21bfb1" />
+
+---
+
 ## I2C BUS
 <img width="670" height="382" alt="Screenshot 2026-06-12 092646" src="https://github.com/user-attachments/assets/d727bd87-3084-4534-bdb8-3b3906659922" />
+
+---
+
 ## GPS
 <img width="686" height="395" alt="Screenshot 2026-06-24 180219" src="https://github.com/user-attachments/assets/5ab7d681-c850-48df-9bc0-06d5f7f7de4a" />
 
