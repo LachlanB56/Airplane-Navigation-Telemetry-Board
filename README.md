@@ -36,7 +36,7 @@ This board consolidates the flight controller and the sensor suite onto one PCB.
 
 It is the successor to a previous module-based sensor board; the architecture here moves the microcontroller onto the board (bare chip rather than a dev module) and switches the GPS to an I²C interface.
 
-> Predecessor project: `<link to previous PCB repository>`
+> Predecessor project: https://github.com/LachlanB56/Flight-System-PCB
 
 ---
 
